@@ -1,0 +1,24 @@
+Bonjour à tous,
+
+Tout d'abord, nous vous remercions de l'intérêt que vous portez à ce data challenge.
+
+Vous trouverez les données sur le site suivant : https://filesender.renater.fr/?s=download&token=b67b6afc-b8ee-b5d9-783e-50edc6cf8c3c
+Attention ! Elles ne sont disponibles que jusqu'au 7 mars 2018.
+
+Vous trouverez 4 fichiers :
+conso_train.csv = la consommation sur la période d'entrainement (1 an du 13/09/2015 au 13/09/2016) ;
+meteo_train.csv = l'historique météo sur la période d'entrainement ;
+meteo_prev.csv = l'historique météo pour la semaine à prédire (considérée comme une prédiction météo) ;
+sample_solution.csv = un fichier de solution qui vous permet de voir la forme de la solution attendue.
+Si vous avez des soucis avec le téléchargement, n'hésitez pas à nous contacter via l'adresse datachallenge_jds2018@sfds.asso.fr .
+
+Un petit rappel des dates : vous devez soumettre votre solution par mail comprenant l'objet [Data Challenge Solution] Nom équipe, à l'adresse datachallenge_jds2018@sfds.asso.fr, avant le 23 avril 2018 !
+La soumission doit se composer d'un fichier intitulé leNomDeVotreEquipe.csv de la forme de sample_solution.csv ainsi que d'un notebook avec le code reproductible et expliquant la méthode.
+
+Nous vous rappelons que les deux équipes finalistes s'engagent à présenter leurs travaux durant la session parcours jeunes docteurs des JdS 2018 ; les prix pour l'équipe gagnante seront décernés à ce moment là.
+Tous les frais sont à la charge des participants, mais le groupe des Jeunes Statisticiens de la SFdS remboursera l'inscription à la conférence, repas et accompagnateurs au gala non inclus, jusqu'à 250€ (tarif réduit adhérent SFdS) pour les personnes attestant sur l'honneur qu'elles ne peuvent bénéficier d'aucune subvention (université, entreprise, etc).
+
+Par ailleurs, nous vous rappelons que la majoration des frais d'inscriptions se fera à partir du 27 avril, nous vous conseillons donc de ne pas tarder à vous inscrire. Toutes les informations sont disponibles à l'adresse suivante : http://www.jds2018.sfds.asso.fr/inscription.html.
+
+Bonne prédiction,
+Les organisateurs du data challenge
