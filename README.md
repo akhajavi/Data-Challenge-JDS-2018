@@ -19,3 +19,9 @@ Predictions are saved in the csv file: `storm.csv` & `storm_ts.csv`
 
 ## Modeling 
 For modeling purposes, we make use of the *Automated Machine Learning* Functionality of [H2o](https://www.h2o.ai) AutoML which trains and cross-validates a Random Forest, an Extremely-Randomized Forest, a random grid of Gradient Boosting Machines (GBMs), a random grid of Deep Neural Nets, and then trains a Stacked Ensemble using all of the models.
+
+## Solution Output
+
+* `Storm_JDS2018.Rmd` = Contains all the R codes needed for reproducibility ;) 
+* `Storm_JDS2018.html` = Output of RMarkdown in html format. 
+
