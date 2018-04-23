@@ -52,7 +52,7 @@ Please feel free to fork and contribute to improving this algorithm :) Have fun!
 
 You can tweet or follow me at [PMarteyAddo](https://twitter.com/PMarteyAddo)
 
-
-
-
+<a href="https://twitter.com/PMarteyAddo">
+<img src="https://github.com/brainy749/Data-Challenge-JDS-2018/blob/master/afd-logo.jpg" width="100">
+</a>
 
