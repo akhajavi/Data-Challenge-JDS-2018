@@ -2,6 +2,8 @@
 
 Prédiction la consommation électrique horaire sur une semaine. 
 
+Le **Data Challenge** organisé par le "groupe des Jeunes Statisticien.ne.s" est une compétition ouverte à tous visant à étudier des jeux de données mis à disposition par de grandes entreprises ou des entités publiques. 
+
 ### Objectif
 Le but de ce challenge est de prévoir la **consommation électrique** de l’île d'Ouessant à 8 jours, en s’aidant des données suivantes : 
  
