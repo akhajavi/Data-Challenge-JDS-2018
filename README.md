@@ -50,9 +50,8 @@ for their valuable comments and suggestions.
 
 Please feel free to fork and contribute to improving this algorithm :) Have fun!! Cheers! ;) 
 
-You can follow me on ![https://twitter.com/PMarteyAddo](twitter.png){width=50px}  [PMarteyAddo](https://twitter.com/PMarteyAddo)
+You can tweet or follow me at [PMarteyAddo](https://twitter.com/PMarteyAddo)
 
-![Peter Martey Addo @AFD_France](afd-logo.jpg){width=200px}
 
 
 
