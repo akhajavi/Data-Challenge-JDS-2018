@@ -189,12 +189,14 @@ meteo_prev_ts_tbl_clean %>% glimpse()
 
 # Train and test data
 
+Given that `2016-09-13 0:00` is included in the train data, we set the first future prediction date to `2016-09-13 1:00`. 
+
 ```{r}
 library(data.table)
 train_data_tbl <- left_join(conso_train_ts_tbl_clean, meteo_train_ts_tbl_clean, by = c("year","month","day","hour"))
 
 future_dates <- data.table(
-  date = seq(ymd_hm("2016-09-13 0:00"), ymd_hm("2016-09-21 0:00"), by = "hour")
+  date = seq(ymd_hm("2016-09-13 1:00"), ymd_hm("2016-09-21 0:00"), by = "hour")
    ) %>%
   tk_augment_timeseries_signature()%>%
   mutate_if(is.factor, factor, ordered = FALSE) %>%
